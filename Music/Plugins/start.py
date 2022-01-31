@@ -36,11 +36,14 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/1311102f6462ca811d67f.jpg",
-        caption=f"""**ʜᴏɪ, Wᴀxᴀɴ ᴀʜᴀʏ Sʜᴀᴅɪʏᴏ
-Wᴀxᴀɴ Kᴀ Cᴀᴡɪɴ Kᴀʀᴀ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘᴋᴀᴅᴀ WᴀxN ᴀʜᴀʏ ʙᴏᴛ Tᴀʏᴀᴅɪsᴀ ʜᴇᴇʀ sᴀʀᴇ Tᴀʜᴀʏ! Tᴀᴀʙᴏ  ...
-💞  Real bot owner @attacktor
-Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
-**""",
+        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━
+🖤 ʜᴇʏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs...
+ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
+┏━━━━━━━━━━━━━━━━━┓
+┣★ ᴄʀᴇᴀᴛᴏʀ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/Somalibots)
+┗━━━━━━━━━━━━━━━━━┛
+💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/ekso_opp) ʙᴀʙʏ...
+━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
