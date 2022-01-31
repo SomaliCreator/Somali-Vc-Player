@@ -48,7 +48,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ😜", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )
                 ],
                 [
@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Somalibots"
                     ),
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ 🤡", url="https://t.me/@AttackTor"
+                        "😘ᴄʀᴇᴀᴛᴏʀ😘", url="https://t.me/@AttackTor"
                     )
                 ],
                 [
