@@ -56,15 +56,15 @@ async def start_(client: Client, message: Message):
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Somalibots"
                     ),
                     InlineKeyboardButton(
-                        "😘ᴄʀᴇᴀᴛᴏʀ😘", url="https://t.me/@AttackTor"
+                        "😘ᴄʀᴇᴀᴛᴏʀ😘", url="https://t.me/yackabinugaas"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "💔sᴜᴘᴘᴏʀᴛ💔", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇸🇴", url=f"https://t.me/{ZAID_SUPPORT}"
+                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 😍", url=f"https://t.me/{ZAID_SUPPORT}"
                     )
                 ]
                 
@@ -98,7 +98,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/attackTor")
+                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/yackabinugaas")
                 ]
             ]
         ),
